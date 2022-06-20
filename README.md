@@ -1,7 +1,7 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Soumyajit Behera</h1>
 
 <!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vaibhav0077/vaibhav0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
 <div align="center">
@@ -71,6 +71,7 @@ Here are some ideas to get you started: -->
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vaibhav0077&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav0077&" alt="soumyajit" />
 </div>
+77
