@@ -39,7 +39,7 @@ Here are some ideas to get you started: -->
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 <img alt="django" src="https://img.shields.io/badge/Django-14354C.svg?style=for-the-badge&logo=django&logoColor=white" height="25px"/>
-<img alt="drf" src="https://img.shields.io/badge/Django-Rest-Framework-%drf.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="drf" src="https://img.shields.io/badge/Django-Rest-Framework-%django-rest-framework.svg?style=for-the-badge&logo=django-rest-framework&logoColor=white" height="25px"/>
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
