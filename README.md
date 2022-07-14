@@ -67,7 +67,7 @@ Here are some ideas to get you started: -->
 ## 📊 My GitHub Data:
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/vaibhav0077/count.svg?align=center)
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vaibhav0077&show_icons=true" />
