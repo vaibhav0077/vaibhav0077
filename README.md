@@ -69,6 +69,9 @@ Here are some ideas to get you started: -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/vaibhav0077/count.svg?align=center)
 
+<!-- ACTIVITY GRAPH TRACKER -->
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=riti2409&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vaibhav0077&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav0077&" alt="soumyajit" />
